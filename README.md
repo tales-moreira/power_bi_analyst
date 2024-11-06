@@ -11,3 +11,11 @@ Realizei a mescla de colunas para unir as colunas de nome e sobrenome, e também
 Agrupei os dados de forma que pudesse visualizar quantos colaboradores existem por gerente;
 Por fim, excluí as colunas desnecessárias.
 
+
+
+STAR SCHEMA FINANCIAL:
+
+Diagrama Star schema construido através da sample Financial;
+À partir dela foram divididos em diferentes tabelas informaçãoes sobre produtos, vendas, descontos, detalhes do produto e data;
+Para definir os relacionamentos foi necessário criar colunas "ID", além disso, a tabela calendário foi criada utilizando DAX.
+
