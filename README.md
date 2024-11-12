@@ -19,3 +19,7 @@ Diagrama Star schema construido através da sample Financial;
 À partir dela foram divididos em diferentes tabelas informaçãoes sobre produtos, vendas, descontos, detalhes do produto e data;
 Para definir os relacionamentos foi necessário criar colunas "ID", além disso, a tabela calendário foi criada utilizando DAX.
 
+RELATÓRIO FINANCEIRO FINAL:
+Neste relatório, apliquei os aprendizados adquiridos no decorrer de todo o curso.
+Aplicando conceitos como agrupamentos, filtros Top N, botões e indicadores, conceitos visuais e de experiencia do usuário.
+
